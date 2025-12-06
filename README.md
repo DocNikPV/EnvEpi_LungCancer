@@ -44,7 +44,7 @@ This project utilized a mixed-tool analytical workflow to ensure rigorous data m
  
 - Environmental data: Annual mean concentrations of key pollutants (PM2.5, PM10, NO2, SO2, O3) obtained from the Israeli Ministry of Environmental Protection (MOEP) monitoring network (2023).
 
-## Key Findings
+## Key findings
 
 ### 1. The smoking confounder
 
