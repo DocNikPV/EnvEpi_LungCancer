@@ -1,0 +1,44 @@
+# Datasets
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pkl
+*.h5
+*.db-journal
+
+# Quarto / Pandoc
+*.html
+*.pdf
+*.docx
+_quarto/
+*.log
+*.aux
+*.out
+*.toc
+
+# Jupyter Notebooks (if ever used)
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.venv/
+env/
+venv/
+.Rproj.user
+
+*.pbix
+*.RData
+*.Rhistory
+.DS_Storegit init
